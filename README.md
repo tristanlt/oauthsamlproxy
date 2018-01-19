@@ -12,7 +12,7 @@ For SAML, apps should be sub-uri of Service Provider. SAML isn't supported by al
 
 SAML federation is awesome, it allow users from differents companies to collaborate whithout additional account.
 
-OAuth SAML Proxy is an OAuth provide which authenticate user with SAML Federation ( with Apache Shibd ).
+OAuth SAML Proxy is an OAuth provider which authenticate user with SAML Federation ( with Apache Shibd ).
 
 1. User want to auth
 2. App redirect to OAuth Provider
